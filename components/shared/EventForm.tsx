@@ -154,7 +154,7 @@ const EventForm = ({ userId, type, event, eventId }: EventFormProps) => {
                   <Textarea
                     placeholder="Description"
                     {...field}
-                    className="text-area rounded-2xl"
+                    className="textarea rounded-2xl"
                   />
                 </FormControl>
                 <FormMessage />
