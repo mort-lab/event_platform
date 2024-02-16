@@ -3,13 +3,18 @@
     "clsx",
     "datepicker",
     "DATEPICKER",
+    "DPDWN",
     "Evently",
+    "hookform",
+    "lucide",
     "nextjs",
     "occured",
+    "setfirst",
     "SHADCN",
     "svix",
     "tailwindcss",
     "trpc",
-    "uploadthing"
+    "uploadthing",
+    "utfs"
   ]
 }
